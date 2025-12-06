@@ -34,3 +34,5 @@ My goal is to bridge the gap between complex technology and end-users. I am curr
 I am committed to validating my skills through continuous education:
 * **Microsoft Certified: Azure Fundamentals (AZ-900)**
 * **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+* **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+
