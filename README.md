@@ -2,7 +2,7 @@
 
 ### About me
 
-### Hi there! I am Timoteous (Adebayo Adebayo) 👋
+### Hi there! I am Timoteus (Adebayo Adebayo) 👋
 
 I am a recent **Informatics Graduate** based in Sweden with a passion for IT infrastructure, Information/Data Security  and user support. 
 
